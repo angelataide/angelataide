@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Angela and I'm from Salvador - BA</p>
+<p align="left">Meu nome é Angela and I'm from Salvador - BA</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm just starting my studies in programming!</p>
+<p align="left">📚 🎓 Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e estou iniciando meus estudos em programação! Sou apaixonada por tecnologia e sempre em busca de novos aprendizados.</p>
 
 ###
 
