@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! My name is Angela and a from Salvador-BA!!!</h1>
+<h1 align="center">Hi 👋! My name is Angela and a from Salvador-BA!!!</h1>
 
 ###
 
-<h2 align="left">About me<br>📚 🎓 Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e estou iniciando meus estudos em programação! Sou apaixonada por tecnologia e sempre em busca de novos aprendizados.</h2>
+<h3 align="left">📚 🎓 Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas e estou iniciando meus estudos em programação! Sou apaixonada por tecnologia e sempre em busca de novos aprendizados.</h3>
 
 ###
 
