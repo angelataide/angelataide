@@ -37,10 +37,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/angelataide/angelataide/output/snake.svg" alt="Snake animation" />
-
-###
